@@ -1,6 +1,6 @@
 animal = ""
 
-function myAnimal() {
+function myAnimal(animal) {
   animal = ""
   return animal
 }
