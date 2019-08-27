@@ -9,7 +9,7 @@ animal = "cat"
 }
 
 function add2(n) {
-  
+    two = 2
   return n + two
-  two = 2
+
 }
