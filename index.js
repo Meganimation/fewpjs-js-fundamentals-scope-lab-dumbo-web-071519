@@ -1,5 +1,5 @@
 function myAnimal(animal) {
-  const animal = "dog";
+  animal = "dog";
   return animal
 }
 
